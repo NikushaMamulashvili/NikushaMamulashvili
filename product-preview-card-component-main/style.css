@@ -1,0 +1,65 @@
+body{
+    background-color: hsl(30, 38%, 92%)
+}
+.photo{
+    margin-left: 600px;
+    margin-top: 200px;
+}
+.perfume{
+    margin-left: 930px;
+    margin-top: -450px;
+}
+.gabrielle{
+margin-left: 930px;
+}
+.essence{
+    margin-left: 930px;
+    margin-top: -25px;
+}
+.parfum{
+    margin-left: 930px;
+    margin-top: -25px;
+}
+.floarl2{
+    margin-left: 930px;
+}
+.composed{
+    margin-left: 930px;
+    margin-top: -10px;
+}
+.oliver{
+    margin-left: 930px;
+    margin-top: -10px;
+}
+.house{
+    margin-left: 930px;
+    margin-top: -10px;
+}
+.price{
+    margin-left: 930px;
+    color: rgb(26, 124, 26);
+}
+.price2{
+    margin-left: 1070px;
+    margin-top: -50px;
+    text-decoration: line-through;
+}
+.cart{
+ margin-left: 950px;
+ margin-top: 50px;
+ border-radius: 10px; 
+    background-color: green;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    text-transform: uppercase;
+    font-weight: bold;
+    cursor: pointer;
+    width: 150px;
+    height: 40px;
+  }
+
+    
+
+
