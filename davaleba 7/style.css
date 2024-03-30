@@ -1,0 +1,90 @@
+body {
+    background-color:  hsl(217, 54%, 11%);
+}
+
+.div1 {
+    width: 300px;
+    height: 525px;
+    background-color: hsl(216, 50%, 16%);
+    margin-left: 700px;
+    margin-top: 100px;
+    border-radius: 10px;
+}
+img {
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+    margin-left: 25px;
+    margin-top: 20px;
+}
+
+
+.css1{
+    color: hsl(0, 0%, 100%);
+    padding-left: 25px;
+    font-size: 18px;
+    font-family: "Outfit", sans-serif
+}
+.css2{
+    padding-left: 24px;
+    font-family: "Outfit", sans-serif;
+    color:  hsl(215, 51%, 70%); 
+}
+
+.css3{
+   margin-top: -10px; 
+}
+.css4{
+    color:  hsl(215, 51%, 70%);
+    margin-top: 40px;
+    font-family: "Outfit", sans-serif
+}
+.css5{
+    margin-left: 20px;
+    margin-top: -37px;
+    font-family: "Outfit", sans-serif;
+    color:  hsl(192, 85%, 44%); 
+}
+.css6{
+    margin-left: 170px;
+    margin-top: -37px;
+}
+.css7{
+    margin-left: 210px;
+    margin-top: -39px;
+    font-family: "Outfit", sans-serif;
+    color:  hsl(215, 51%, 70%);
+}
+.css8{
+    margin-top: -10px;
+}
+.img1 {
+    border-style: solid;
+    border-width: 1px;
+    border-color: white;
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+    margin-top: -25px;
+    margin-left: -5px;
+    }
+.css10{
+    margin-left: 40px;
+    margin-top: -45px;
+    font-family: "Outfit", sans-serif;
+    color:  hsl(178, 100%, 50%);
+}
+.css11{
+    margin-left: 125px;
+    margin-top: -34px;
+    font-family: "Outfit", sans-serif;
+    color: white;
+}
+    
+   
+
+
+
+
+
+
