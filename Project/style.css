@@ -1,0 +1,2243 @@
+body {
+  
+   
+   
+   
+
+   background-color: white;
+
+}
+
+.main_login_button {
+  text-decoration: none;
+  width: 100px;
+  height: 46px;
+  background-color: rgba(255, 0, 0, 0);
+  position: absolute;
+  left: 1645px;
+  border-radius: 10px;
+}
+.main_signup_button {
+  text-decoration: none;
+  width: 100px;
+  height: 46px;
+  background-color: rgba(255, 255, 255, 0);
+  position: absolute;
+  left: 1730px;
+  border-radius: 10px;
+}
+.main_login_button_text {
+  text-align: center;
+  font-family: 'Hanken Grotesk', sans-serif;
+  font-family: 'Poppins', sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  color: red;
+  padding-top: px;
+}
+.main_signup_button_text {
+  text-align: center;
+  font-family: 'Hanken Grotesk', sans-serif;
+  font-family: 'Poppins', sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  color: red;
+  padding-top: px;
+}
+.main_login_button:hover {
+  border: 2px solid #a021ca; 
+  text-decoration: none; 
+  transition: .1s;
+  cursor: pointer;
+  text-decoration: none;
+}
+.main_signup_button:hover {
+  border: 2px solid #a021ca; 
+  text-decoration: none; 
+  transition: .1s;
+  cursor: pointer;
+  text-decoration: none;
+}
+.search1{
+  width: 850px;
+  margin-top: 40px;
+  border: 2px solid red;
+  border-radius: 10px 10px 10px 10px;
+  height: 40px;
+  position: relative;
+  margin-left: 470px;
+
+}
+.searchbutton1{
+  width: 20px;
+  height: 20px;
+  margin-top: 10px;
+  position: absolute;
+  right: 23px;
+  top: 43px;
+}
+.searchbarss{
+  width: 40px;
+  height: 30px;
+  margin-left: -950px;
+  margin-top: -90px;
+}
+.ss1{
+  width: 40px;
+  height: 30px;
+  margin-left: -940px;
+  margin-top: 50px;
+  cursor: pointer;
+  position: absolute;
+}
+.heart{
+  width: 30px;
+  height: 30px;
+  margin-left: 150px;
+  margin-top: 20px;
+  position: absolute;
+  cursor: pointer;
+}
+.profile{
+  width: 30px;
+  height: 30px;
+  margin-left: 220px;
+  margin-top: 20px;
+  position: absolute;
+  cursor: pointer;
+}
+.bag{
+  width: 30px;
+  height: 30px;
+  margin-left: 280px;
+  margin-top: 20px;
+  position: absolute;
+  cursor: pointer;
+}
+.logo{
+  width: 300px;
+  height: 100px;
+  position: absolute;
+  margin-left: -1250px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+.usaflag{
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  margin-left: 80px;
+  margin-top: 20px;
+}
+.en{
+  position: absolute;
+  margin-left: 1380px;
+  width: 30px;
+  height: 30px;
+  margin-top: -65px;
+}
+.body{
+  position: fixed;
+}
+.cat{
+  background-color: red;
+  border-radius: 5px;
+  position: absolute;
+  margin-top: 150px;
+  margin-left: 200px;
+  width: 250px;
+  
+}
+.cat1{
+  color: white;
+  margin-left: 50px;
+  cursor: pointer;
+ margin-left: 30px;
+  
+}
+.ims1{
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  top: 17px;
+  cursor: pointer;
+  
+}
+.homesscreen{
+  margin-left: 450px;
+  margin-top: 150px;
+}
+.com{
+  color: black;
+  margin-left: 210px;
+  margin-top: -400px;
+  cursor: pointer;
+}
+.gray{
+  position: absolute;
+  background-color: gray;
+  width: 245px;
+  height: 2px;
+  left: 210px;
+}
+.drop1{
+width: 30px;
+height: 30px;
+position: absolute;
+left: 420px;
+top: 230px;
+cursor: pointer;
+
+}
+.com1{
+  color: black;
+  margin-left: 215px;
+  margin-top: 20px;
+  cursor: pointer;
+  margin-top: 30px;
+}
+.gray1{
+  position: absolute;
+  background-color: gray;
+  width: 245px;
+  height: 2px;
+  left: 210px;
+}
+.drop2{
+  width: 30px;
+height: 30px;
+position: absolute;
+left: 420px;
+top: 280px;
+cursor: pointer;
+}
+.com2{
+  color: black;
+  margin-left: 215px;
+  margin-top: 20px;
+  cursor: pointer;
+  margin-top: 30px;
+}
+.gray2{
+  position: absolute;
+  background-color: gray;
+  width: 245px;
+  height: 2px;
+  left: 210px;
+}
+.drop3{
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  left: 420px;
+  top: 335px;
+  cursor: pointer;
+}
+.com3{
+  color: black;
+  margin-left: 215px;
+  margin-top: 20px;
+  cursor: pointer;
+  margin-top: 30px;
+}.gray3{
+  position: absolute;
+  background-color: gray;
+  width: 245px;
+  height: 2px;
+  left: 210px;
+}
+.drop4{
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  left: 420px;
+  top: 385px;
+  cursor: pointer;
+}
+.com4{
+  color: black;
+  margin-left: 215px;
+  margin-top: 20px;
+  cursor: pointer;
+  margin-top: 30px;
+}
+.gray4{
+  position: absolute;
+  background-color: gray;
+  width: 245px;
+  height: 2px;
+  left: 210px;
+}
+.drop5{
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  left: 420px;
+  top: 435px;
+  cursor: pointer;
+}
+.com5{
+  color: black;
+  margin-left: 215px;
+  margin-top: 20px;
+  cursor: pointer;
+  margin-top: 30px;
+}
+.gray5{
+  position: absolute;
+  background-color: gray;
+  width: 245px;
+  height: 2px;
+  left: 210px;
+}
+.drop6{
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  left: 420px;
+  top: 490px;
+  cursor: pointer;
+}
+.com6{
+  color: black;
+  margin-left: 215px;
+  margin-top: 20px;
+  cursor: pointer;
+  margin-top: 30px;
+}
+.gray6{
+  position: absolute;
+  background-color: gray;
+  width: 245px;
+  height: 2px;
+  left: 210px;
+}
+.drop7{
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  left: 420px;
+  top: 540px;
+  cursor: pointer;
+}
+.com7{
+  color: black;
+  margin-left: 215px;
+  margin-top: 20px;
+  cursor: pointer;
+  margin-top: 30px;
+}
+.gray7{
+  position: absolute;
+  background-color: gray;
+  width: 245px;
+  height: 2px;
+  left: 210px;
+}
+.drop8{
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  left: 420px;
+  top: 590px;
+  cursor: pointer;
+}
+.pc777{
+  position: absolute;
+  height: 200px;
+  width: 200px;
+  left: 50px;
+  top: 670px;
+}
+.pc777s{
+  position: absolute;
+  left: 270px;
+  top: 700px;
+}
+.pc777r{
+  position: absolute;
+ left: 270px;
+  top: 750px;
+  cursor: pointer; 
+}
+.pc777g{
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  left: 360px;
+  top: 765px;
+  cursor: pointer;
+}
+.mon777{
+  position: absolute;
+  height: 200px;
+  width: 200px;
+  left: 500px;
+  top: 670px;
+}
+.mon777s{
+  position: absolute;
+  left: 750px;
+  top: 700px;
+}
+.mon777r{
+  position: absolute;
+  left: 750px;
+   top: 750px;
+   cursor: pointer; 
+}
+.mon777g{
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  left: 840px;
+  top: 765px;
+  cursor: pointer;
+}
+.pher777{
+  position: absolute;
+  height: 200px;
+  width: 200px;
+  left: 950px;
+  top: 670px;
+}
+.pher777s{
+  position: absolute;
+  left: 1200px;
+  top: 700px;
+}
+.pher777r{
+  position: absolute;
+  left: 1200px;
+   top: 750px;
+   cursor: pointer; 
+}
+.pher777g{
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  left: 1290px;
+  top: 765px;
+  cursor: pointer;
+}
+.cha777{
+  position: absolute;
+  height: 200px;
+  width: 200px;
+  left: 1400px;
+  top: 670px;
+}
+.cha777s{
+  position: absolute;
+  left: 1580px;
+  top: 700px;
+}
+.cha777r{
+  position: absolute;
+  left: 1580px;
+   top: 750px;
+   cursor: pointer; 
+}
+.cha777g{
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  left: 1670px;
+  top: 765px;
+  cursor: pointer;
+}
+.cos1{
+  margin-top: 310px;
+  color: black;
+}
+.grays{
+  width: 1800px;
+  height: 3px;
+  background-color: gray;
+  position: absolute;
+  left: 30px;
+}
+.pc1{
+  width: 200px;
+  height: 200px;
+  position: absolute;
+left: 300px;
+top: 1080px;
+cursor: pointer;
+}
+.pc1os{
+  color: gray;
+  position: absolute;
+  left: 300px;
+  top: 980px;
+}
+.pc1og{
+  position: absolute;
+  width: 300px;
+  left: 300px;
+  top: 1010px;
+  cursor: pointer;
+}
+.pcp1{
+  position: absolute;
+  color: gray;
+  text-decoration: line-through;
+  left: 300px;
+  top: 1270px;
+}
+.pcr1{
+  color: red;
+  position: absolute;
+  left: 300px;
+  top: 1290px;
+  
+}
+.pcs1{
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  left: 480px;
+  top: 1310px;
+  cursor: pointer;
+}
+.pcs2{
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  cursor: pointer;
+  left: 530px;
+  top: 1310px;
+}
+.jaj1{
+  width: 200px;
+  height: 200px;
+  position: absolute;
+left: 610px;
+top: 1080px;
+cursor: pointer;
+}
+.jaj2{
+  color: gray;
+  position: absolute;
+  left: 610px;
+  top: 980px;
+}
+.jaj3{
+  position: absolute;
+  width: 350px;
+  left: 610px;
+  top: 1010px;
+  cursor: pointer;
+}
+.jaj4{
+  position: absolute;
+  color: gray;
+  text-decoration: line-through;
+  left: 610px;
+  top: 1270px;
+}
+.jaj5{
+  color: red;
+  position: absolute;
+  left: 610px;
+  top: 1290px;
+}
+.jaj6{
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  left: 780px;
+  top: 1310px;
+  cursor: pointer;
+}
+.jaj7{
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  cursor: pointer;
+  left: 830px;
+  top: 1310px;
+}
+.mam1{
+  width: 200px;
+  height: 200px;
+  position: absolute;
+left: 950px;
+top: 1080px;
+cursor: pointer;
+}
+.mam2{
+  color: gray;
+  position: absolute;
+  left: 950px;
+  top: 980px;
+}
+.mam3{
+  position: absolute;
+  width: 350px;
+  left: 950px;
+  top: 1010px;
+  cursor: pointer;
+}
+.mam4{
+  position: absolute;
+  color: gray;
+  text-decoration: line-through;
+  left: 950px;
+  top: 1270px;
+}
+.mam5{
+  color: red;
+  position: absolute;
+  left: 950px;
+  top: 1290px;
+}
+.mam6{
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  left: 1130px;
+  top: 1310px;
+  cursor: pointer;
+}
+.mam7{
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  cursor: pointer;
+  left: 1180px;
+  top: 1310px;
+}
+.non1{
+  width: 200px;
+  height: 200px;
+  position: absolute;
+left: 1300px;
+top: 1080px;
+cursor: pointer;
+}
+.non2{
+  color: gray;
+  position: absolute;
+  left: 1300px;
+  top: 980px;
+}
+.non3{
+  position: absolute;
+  width: 350px;
+  left: 1300px;
+  top: 1010px;
+  cursor: pointer;
+}
+.non4{
+  position: absolute;
+  color: gray;
+  text-decoration: line-through;
+  left: 1300px;
+  top: 1270px;
+}
+.non5{
+  color: red;
+  position: absolute;
+  left: 1300px;
+  top: 1290px;
+}
+.non6{
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  left: 1480px;
+  top: 1310px;
+  cursor: pointer;
+}
+.non7{
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  cursor: pointer;
+  left: 1530px;
+  top: 1310px;
+}
+.zoz1{
+  position: absolute;
+  top: 1440px;
+  left: 300px;
+  width: 200px;
+  height: 200px;
+  cursor: pointer;
+}
+.zoz2{
+  color: gray;
+  position: absolute;
+  left: 300px;
+  top: 1350px;
+}
+.zoz3{
+  position: absolute;
+  width: 350px;
+  left: 300px;
+  top: 1380px;
+  cursor: pointer;
+}
+.zoz4{
+  position: absolute;
+  color: gray;
+  text-decoration: line-through;
+  left: 300px;
+  top: 1620px;
+}
+.zoz5{
+  color: red;
+  position: absolute;
+  left: 300px;
+  top: 1640px;
+}
+.zoz6{
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  left: 480px;
+  top: 1660px;
+  cursor: pointer;
+}
+.zoz7{
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  cursor: pointer;
+  left: 530px;
+  top: 1660px;
+}
+.cir1{
+  position: absolute;
+  top: 1440px;
+  left: 610px;
+  width: 200px;
+  height: 200px;
+  cursor: pointer;
+}
+.cir2{
+  color: gray;
+  position: absolute;
+  left: 610px;
+  top: 1350px;
+  width: 300px;
+}
+.cir3{
+  position: absolute;
+  width: 350px;
+  left: 610px;
+  top: 1380px;
+  cursor: pointer;
+}
+.cir4{
+  position: absolute;
+  color: gray;
+  text-decoration: line-through;
+  left: 610px;
+  top: 1620px;
+}
+.cir5{
+  color: red;
+  position: absolute;
+  left: 610px;
+  top: 1640px;
+}
+.cir6{
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  left: 780px;
+  top: 1660px;
+  cursor: pointer;
+}
+.cir7{
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  cursor: pointer;
+  left: 830px;
+  top: 1660px;
+}
+.mos1{
+  position: absolute;
+  top: 1440px;
+  left: 950px;
+  width: 200px;
+  height: 200px;
+  cursor: pointer;
+}
+.mos2{
+  color: gray;
+  position: absolute;
+  left: 950px;
+  top: 1350px;
+  width: 300px;
+}
+.mos3{
+  position: absolute;
+  width: 300px;
+  left: 950px;
+  top: 1380px;
+  cursor: pointer;
+}
+.mos4{
+  position: absolute;
+  color: gray;
+  text-decoration: line-through;
+  left: 950px;
+  top: 1620px;
+}
+.mos5{
+  color: red;
+  position: absolute;
+  left: 950px;
+  top: 1640px;
+}
+.mos6{
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  left: 1130px;
+  top: 1660px;
+  cursor: pointer;
+}
+.mos7{
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  cursor: pointer;
+  left: 1180px;
+  top: 1660px;
+}
+.sos1{
+  position: absolute;
+  top: 1440px;
+  left: 1300px;
+  width: 200px;
+  height: 200px;
+  cursor: pointer;
+}
+.sos2{
+  color: gray;
+  position: absolute;
+  left: 1300px;
+  top: 1350px;
+  width: 300px;
+}
+.sos3{
+  position: absolute;
+  width: 350px;
+  left: 1300px;
+  top: 1380px;
+  cursor: pointer;
+}
+.sos4{
+  position: absolute;
+  color: gray;
+  text-decoration: line-through;
+  left: 1300px;
+  top: 1620px;
+}
+.sos5{
+  color: red;
+  position: absolute;
+  left: 1300px;
+  top: 1640px;
+}
+.sos6{
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  left: 1480px;
+  top: 1660px;
+  cursor: pointer;
+}
+.sos7{
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  cursor: pointer;
+  left: 1530px;
+  top: 1660px;
+}
+.mona{
+ margin-top: 780px;
+}
+.grat2{
+  width: 1800px;
+  height: 3px;
+  background-color: gray;
+  position: absolute;
+  left: 30px;
+  margin-top: 5px;
+}
+.zaz1{
+  position: absolute;
+  top: 1880px;
+  left: 300px;
+  width: 200px;
+  height: 200px;
+  cursor: pointer;
+}
+.zaz2{
+  color: gray;
+  position: absolute;
+  left: 300px;
+  top: 1800px;
+  width: 300px;
+}
+.zaz3{
+  position: absolute;
+  width: 290px;
+  left: 300px;
+  top: 1830px;
+  cursor: pointer;
+}
+.body{
+  z-index: 11111111111111111100000000000000000000000000;
+  background-color: white;
+  width: 10000000000000000px;
+  height: 100px;
+  border-radius: 10px;
+  border-color: gray;
+}
+.zaz4{
+  position: absolute;
+  color: gray;
+  text-decoration: line-through;
+  left: 300px;
+  top: 2050px;
+}
+.zaz5{
+  color: red;
+  position: absolute;
+  left: 300px;
+  top: 2070px;
+}
+.zaz6{
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  left: 480px;
+  top: 2090px;
+  cursor: pointer;
+}
+.zaz7{
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  cursor: pointer;
+  left: 530px;
+  top: 2090px;
+}
+.kok1{
+  position: absolute;
+  top: 1880px;
+  left: 610px;
+  width: 200px;
+  height: 200px;
+  cursor: pointer;
+}
+.kok2{
+  color: gray;
+  position: absolute;
+  left: 610px;
+  top: 1800px;
+  width: 300px;
+}
+.kok3{
+  position: absolute;
+  width: 350px;
+  left: 610px;
+  top: 1830px;
+  cursor: pointer;
+}
+.kok4{
+  position: absolute;
+  color: gray;
+  text-decoration: line-through;
+  left: 610px;
+  top: 2050px;
+}
+.kok5{
+  color: red;
+  position: absolute;
+  left: 610px;
+  top: 2070px;
+}
+.kok6{
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  left: 780px;
+  top: 2090px;
+  cursor: pointer;
+}
+.kok7{
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  cursor: pointer;
+  left: 830px;
+  top: 2090px;
+}
+.gog1{
+  position: absolute;
+  top: 1880px;
+  left: 950px;
+  width: 200px;
+  height: 200px;
+  cursor: pointer;
+}
+.gog2{
+  color: gray;
+  position: absolute;
+  left: 950px;
+  top: 1800px;
+  width: 300px;
+}
+.gog3{
+  position: absolute;
+  width: 250px;
+  left: 950px;
+  top: 1830px;
+  cursor: pointer;
+}
+.gog4{
+  position: absolute;
+  color: gray;
+  text-decoration: line-through;
+  left: 950px;
+  top: 2050px;
+}
+.gog5{
+  color: red;
+  position: absolute;
+  left: 950px;
+  top: 2070px;
+}
+.gog6{
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  left: 1130px;
+  top: 2090px;
+  cursor: pointer;
+}
+.gog7{
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  cursor: pointer;
+  left: 1190px;
+  top: 2090px;
+}
+.sas1{
+  position: absolute;
+  top: 1880px;
+  left: 1300px;
+  width: 200px;
+  height: 200px;
+  cursor: pointer;
+}
+.sas2{
+  color: gray;
+  position: absolute;
+  left: 1300px;
+  top: 1800px;
+  width: 300px;
+}
+.sas3{
+  position: absolute;
+  width: 350px;
+  left: 1300px;
+  top: 1830px;
+  cursor: pointer;
+}
+.sas4{
+  position: absolute;
+  color: gray;
+  text-decoration: line-through;
+  left: 1300px;
+  top: 2050px;
+}
+.sas5{
+  color: red;
+  position: absolute;
+  left: 1300px;
+  top: 2070px;
+}
+.sas6{
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  left: 1480px;
+  top: 2090px;
+  cursor: pointer;
+}
+.sas7{
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  cursor: pointer;
+  left: 1530px;
+  top: 2090px;
+}
+.coc1{
+  position: absolute;
+  top: 2210px;
+  left: 300px;
+  width: 200px;
+  height: 200px;
+  cursor: pointer;
+}
+.coc2{
+  color: gray;
+  position: absolute;
+  left: 300px;
+  top: 2150px;
+  width: 300px;
+}
+.coc3{
+  position: absolute;
+  width: 300px;
+  left: 300px;
+  top: 2180px;
+  cursor: pointer;
+}
+.coc4{
+  position: absolute;
+  color: gray;
+  text-decoration: line-through;
+  left: 300px;
+  top: 2350px;
+}
+.coc5{
+  color: red;
+  position: absolute;
+  left: 300px;
+  top: 2370px;
+}
+.coc6{
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  left: 480px;
+  top: 2390px;
+  cursor: pointer;
+}
+.coc7{
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  cursor: pointer;
+  left: 530px;
+  top: 2390px;
+}
+.yo1{
+  position: absolute;
+  top: 2210px;
+  left: 610px;
+  width: 200px;
+  height: 200px;
+  cursor: pointer;
+}
+.yo2{
+  color: gray;
+  position: absolute;
+  left: 610px;
+  top: 2150px;
+  width: 300px;
+}
+.yo3{
+  position: absolute;
+  width: 300px;
+  left: 610px;
+  top: 2180px;
+  cursor: pointer;
+}
+.yo4{
+  position: absolute;
+  color: gray;
+  text-decoration: line-through;
+  left: 610px;
+  top: 2350px;
+}
+.yo5{
+  color: red;
+  position: absolute;
+  left: 610px;
+  top: 2370px;
+}
+.yo6{
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  left: 780px;
+  top: 2390px;
+  cursor: pointer;
+}
+.yo7{
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  cursor: pointer;
+  left: 830px;
+  top: 2390px;
+}
+.gi1{
+  position: absolute;
+  top: 2210px;
+  left: 950px;
+  width: 200px;
+  height: 200px;
+  cursor: pointer;
+}
+.gi2{
+  color: gray;
+  position: absolute;
+  left: 950px;
+  top: 2150px;
+  width: 300px;
+}
+.gi3{
+  position: absolute;
+  width: 350px;
+  left: 950px;
+  top: 2180px;
+  cursor: pointer;
+}
+.gi4{
+  position: absolute;
+  color: gray;
+  text-decoration: line-through;
+  left: 950px;
+  top: 2350px;
+}
+.gi5{
+  color: red;
+  position: absolute;
+  left: 950px;
+  top: 2370px;
+}
+.gi6{
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  left: 1130px;
+  top: 2390px;
+  cursor: pointer;
+}
+.gi7{
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  cursor: pointer;
+  left: 1190px;
+  top: 2390px;
+}
+.tas1{
+  position: absolute;
+  top: 2210px;
+  left: 1300px;
+  width: 200px;
+  height: 200px;
+  cursor: pointer;
+}
+.tas2{
+  color: gray;
+  position: absolute;
+  left: 1300px;
+  top: 2150px;
+  width: 300px;
+}
+.tas3{
+  position: absolute;
+  width: 350px;
+  left: 1300px;
+  top: 2180px;
+  cursor: pointer;
+}
+.tas4{
+  position: absolute;
+  color: gray;
+  text-decoration: line-through;
+  left: 1300px;
+  top: 2350px;
+}
+.tas5{
+  color: red;
+  position: absolute;
+  left: 1300px;
+  top: 2370px;
+}
+.tas6{
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  left: 1480px;
+  top: 2390px;
+  cursor: pointer;
+}
+.tas7{
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  cursor: pointer;
+  left: 1530px;
+  top: 2390px;
+}
+.monaa{
+ margin-top: 700px;
+}
+.grat3{
+  width: 1800px;
+  height: 3px;
+  background-color: gray;
+  position: absolute;
+  left: 30px;
+  margin-top: 5px;
+}
+.ysa1{
+  position: absolute;
+  top: 2650px;
+  left: 300px;
+  width: 200px;
+  height: 200px;
+  cursor: pointer;
+}
+.ysa2{
+  color: gray;
+  position: absolute;
+  left: 300px;
+  top: 2550px;
+  width: 300px;
+}
+.ysa3{
+  position: absolute;
+  width: 350px;
+  left: 300px;
+  top: 2580px;
+  cursor: pointer;
+} 
+.ysa4{
+  position: absolute;
+  color: gray;
+  text-decoration: line-through;
+  left: 300px;
+  top: 2820px;
+}
+.ysa5{
+  color: red;
+  position: absolute;
+  left: 300px;
+  top: 2840px;
+}
+.ysa6{
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  left: 480px;
+  top: 2860px;
+  cursor: pointer;
+}
+.ysa7{
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  cursor: pointer;
+  left: 530px;
+  top: 2860px;
+}
+.sacha1{
+  position: absolute;
+  top: 2650px;
+  left: 610px;
+  width: 200px;
+  height: 200px;
+  cursor: pointer;
+}
+.sacha2{
+  color: gray;
+  position: absolute;
+  left: 610px;
+  top: 2550px;
+  width: 300px;
+}
+.sacha3{
+  position: absolute;
+  width: 350px;
+  left: 610px;
+  top: 2580px;
+  cursor: pointer;
+}
+.sacha4{
+  position: absolute;
+  color: gray;
+  text-decoration: line-through;
+  left: 610px;
+  top: 2820px;
+}
+.sacha5{
+  color: red;
+  position: absolute;
+  left: 610px;
+  top: 2840px;
+}
+.sacha6{
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  left: 780px;
+  top: 2860px;
+  cursor: pointer;
+}
+.sacha7{
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  cursor: pointer;
+  left: 830px;
+  top: 2860px;
+}
+.os1{
+  position: absolute;
+  top: 2650px;
+  left: 950px;
+  width: 200px;
+  height: 200px;
+  cursor: pointer;
+}
+.os2{
+  color: gray;
+  position: absolute;
+  left: 950px;
+  top: 2550px;
+  width: 300px;
+}
+.os3{
+  position: absolute;
+  width: 350px;
+  left: 950px;
+  top: 2580px;
+  cursor: pointer;
+}
+.os4{
+  position: absolute;
+  color: gray;
+  text-decoration: line-through;
+  left: 950px;
+  top: 2820px;
+}
+.os5{
+  color: red;
+  position: absolute;
+  left: 950px;
+  top: 2840px;
+}
+.os6{
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  left: 1130px;
+  top: 2860px;
+  cursor: pointer;
+}
+.os7{
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  cursor: pointer;
+  left: 1190px;
+  top: 2860px;
+}
+.mar1{
+  position: absolute;
+  top: 2650px;
+  left: 1300px;
+  width: 200px;
+  height: 200px;
+  cursor: pointer;
+}
+.mar2{
+  color: gray;
+  position: absolute;
+  left: 1300px;
+  top: 2550px;
+  width: 300px;
+}
+.mar3{
+  position: absolute;
+  width: 350px;
+  left: 1300px;
+  top: 2580px;
+  cursor: pointer;
+}
+.mar4{
+  position: absolute;
+  color: gray;
+  text-decoration: line-through;
+  left: 1300px;
+  top: 2820px;
+}
+.mar5{
+  color: red;
+  position: absolute;
+  left: 1300px;
+  top: 2840px;
+}
+.mar6{
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  left: 1480px;
+  top: 2860px;
+  cursor: pointer;
+}
+.mar7{
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  cursor: pointer;
+  left: 1530px;
+  top: 2860px;
+}
+.montana1{
+  position: absolute;
+  top: 3000px;
+  left: 300px;
+  width: 200px;
+  height: 200px;
+  cursor: pointer;
+}
+.montana2{
+  color: gray;
+  position: absolute;
+  left: 300px;
+  top: 2900px;
+  width: 300px;
+}
+.montana3{
+  position: absolute;
+  width: 350px;
+  left: 300px;
+  top: 2930px;
+  cursor: pointer;
+}
+.montana4{
+  position: absolute;
+  color: gray;
+  text-decoration: line-through;
+  left: 300px;
+  top: 3170px;
+}
+.montana5{
+  color: red;
+  position: absolute;
+  left: 300px;
+  top: 3190px;
+}
+.montana6{
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  left: 480px;
+  top: 3210px;
+  cursor: pointer;
+}
+.montana7{
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  cursor: pointer;
+  left: 530px;
+  top: 3210px;
+}
+.sko1{
+  position: absolute;
+  top: 3000px;
+  left: 610px;
+  width: 200px;
+  height: 200px;
+  cursor: pointer;
+}
+.sko2{
+  color: gray;
+  position: absolute;
+  left: 610px;
+  top: 2900px;
+  width: 300px;
+}
+.sko3{
+  position: absolute;
+  width: 300px;
+  left: 610px;
+  top: 2930px;
+  cursor: pointer;
+}
+.sko4{
+  position: absolute;
+  color: gray;
+  text-decoration: line-through;
+  left: 610px;
+  top: 3170px;
+}
+.sko5{
+  color: red;
+  position: absolute;
+  left: 610px;
+  top: 3190px;
+}
+.sko6{
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  left: 780px;
+  top: 3210px;
+  cursor: pointer;
+}  
+.sko7{
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  cursor: pointer;
+  left: 830px;
+  top: 3210px;
+}
+.kor1{
+  position: absolute;
+  top: 3000px;
+  left: 950px;
+  width: 200px;
+  height: 200px;
+  cursor: pointer;
+}
+.kor2{
+  color: gray;
+  position: absolute;
+  left: 950px;
+  top: 2900px;
+  width: 300px;
+}
+.kor3{
+  position: absolute;
+  width: 300px;
+  left: 950px;
+  top: 2930px;
+  cursor: pointer;
+} 
+.kor4{
+  position: absolute;
+  color: gray;
+  text-decoration: line-through;
+  left: 950px;
+  top: 3170px;
+}
+.kor5{
+  color: red;
+  position: absolute;
+  left: 950px;
+  top: 3190px;
+}
+.kor6{
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  left: 1130px;
+  top: 3210px;
+  cursor: pointer;
+} 
+.kor7{
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  cursor: pointer;
+  left: 1190px;
+  top: 3210px;
+}
+.las1{
+  position: absolute;
+  top: 3000px;
+  left: 1300px;
+  width: 200px;
+  height: 200px;
+  cursor: pointer;
+}
+.las2{
+  color: gray;
+  position: absolute;
+  left: 1300px;
+  top: 2900px;
+  width: 300px;
+}
+.las3{
+  position: absolute;
+  width: 300px;
+  left: 1300px;
+  top: 2930px;
+  cursor: pointer;
+} 
+.las4{
+  position: absolute;
+  color: gray;
+  text-decoration: line-through;
+  left: 1300px;
+  top: 3170px;
+}
+.las5{
+  color: red;
+  position: absolute;
+  left: 1300px;
+  top: 3190px;
+}
+.las6{
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  left: 1480px;
+  top: 3210px;
+  cursor: pointer;
+}
+.las7{
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  cursor: pointer;
+  left: 1530px;
+  top: 3210px;
+}
+.monaaaa{
+  margin-top: 750px;
+}
+.grat4{
+  width: 1800px;
+  height: 3px;
+  background-color: gray;
+  position: absolute;
+  left: 30px;
+  margin-top: 5px;
+}
+.jik1{
+  position: absolute;
+  top: 3450px;
+  left: 300px;
+  width: 200px;
+  height: 200px;
+  cursor: pointer;
+}
+.jik2{
+  color: gray;
+  position: absolute;
+  left: 300px;
+  top: 3350px;
+  width: 300px;
+}
+.jik3{
+  position: absolute;
+  width: 300px;
+  left: 300px;
+  top: 3380px;
+  cursor: pointer;
+}
+.jik4{
+  position: absolute;
+  color: gray;
+  text-decoration: line-through;
+  left: 300px;
+  top: 3650px;
+}
+.jik5{
+  color: red;
+  position: absolute;
+  left: 300px;
+  top: 3670px;
+}
+.jik6{
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  left: 480px;
+  top: 3690px;
+  cursor: pointer;
+}
+.jik7{
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  cursor: pointer;
+  left: 530px;
+  top: 3690px;
+}  
+.pat1{
+  position: absolute;
+  top: 3450px;
+  left: 610px;
+  width: 200px;
+  height: 200px;
+  cursor: pointer;
+}
+.pat2{
+  color: gray;
+  position: absolute;
+  left: 610px;
+  top: 3350px;
+  width: 300px;
+}
+.pat3{
+  position: absolute;
+  width: 300px;
+  left: 610px;
+  top: 3380px;
+  cursor: pointer;
+}
+.pat4{
+  position: absolute;
+  color: gray;
+  text-decoration: line-through;
+  left: 610px;
+  top: 3650px;
+}
+.pat5{
+  color: red;
+  position: absolute;
+  left: 610px;
+  top: 3670px;
+}
+.pat6{
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  left: 780px;
+  top: 3690px;
+  cursor: pointer;
+}
+.pat7{
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  cursor: pointer;
+  left: 830px;
+  top: 3690px;
+}
+.yey1{
+  position: absolute;
+  top: 3450px;
+  left: 950px;
+  width: 200px;
+  height: 200px;
+  cursor: pointer;
+}
+.yey2{
+  color: gray;
+  position: absolute;
+  left: 950px;
+  top: 3350px;
+  width: 300px;
+}
+.yey3{
+  position: absolute;
+  width: 300px;
+  left: 950px;
+  top: 3380px;
+  cursor: pointer;
+}
+.yey4{
+  position: absolute;
+  color: gray;
+  text-decoration: line-through;
+  left: 950px;
+  top: 3650px;
+}
+.yey5{
+  color: red;
+  position: absolute;
+  left: 950px;
+  top: 3670px;
+}
+.yey6{
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  left: 1130px;
+  top: 3690px;
+  cursor: pointer;
+}
+.yey7{
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  cursor: pointer;
+  left: 1190px;
+  top: 3690px;
+}
+.mde1{
+  position: absolute;
+  top: 3450px;
+  left: 1300px;
+  width: 200px;
+  height: 200px;
+  cursor: pointer;
+}
+.mde2{
+  color: gray;
+  position: absolute;
+  left: 1300px;
+  top: 3350px;
+  width: 300px;
+}
+.mde3{
+  position: absolute;
+  width: 300px;
+  left: 1300px;
+  top: 3380px;
+  cursor: pointer;
+}
+.mde4{
+  position: absolute;
+  color: gray;
+  text-decoration: line-through;
+  left: 1300px;
+  top: 3650px;
+}
+.mde5{
+  color: red;
+  position: absolute;
+  left: 1300px;
+  top: 3670px;
+}
+.mde6{
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  left: 1480px;
+  top: 3690px;
+  cursor: pointer;
+}
+.mde7{
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  cursor: pointer;
+  left: 1530px;
+  top: 3690px;
+}
+.hur1{
+  position: absolute;
+  top: 3850px;
+  left: 300px;
+  width: 200px;
+  height: 200px;
+  cursor: pointer;
+}
+.hur2{
+  color: gray;
+  position: absolute;
+  left: 300px;
+  top: 3750px;
+  width: 300px;
+}
+.hur3{
+  position: absolute;
+  width: 300px;
+  left: 300px;
+  top: 3780px;
+  cursor: pointer;
+}
+.hur4{
+  position: absolute;
+  color: gray;
+  text-decoration: line-through;
+  left: 300px;
+  top: 4030px;
+}
+.hur5{
+  color: red;
+  position: absolute;
+  left: 300px;
+  top: 4050px;
+}
+.hur6{
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  left: 480px;
+  top: 4070px;
+  cursor: pointer;
+}
+.hur7{
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  cursor: pointer;
+  left: 530px;
+  top: 4070px;
+}
+.sof1{
+  position: absolute;
+  top: 3850px;
+  left: 610px;
+  width: 200px;
+  height: 200px;
+  cursor: pointer;
+}
+.sof2{
+  color: gray;
+  position: absolute;
+  left: 610px;
+  top: 3750px;
+  width: 300px;
+}
+.sof3{
+  position: absolute;
+  width: 300px;
+  left: 610px;
+  top: 3780px;
+  cursor: pointer;
+}
+.sof4{
+  position: absolute;
+  color: gray;
+  text-decoration: line-through;
+  left: 610px;
+  top: 4030px;
+}
+.sof5{
+  color: red;
+  position: absolute;
+  left: 610px;
+  top: 4050px;
+}
+.sof6{
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  left: 780px;
+  top: 4070px;
+  cursor: pointer;
+}
+.sof7{
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  cursor: pointer;
+  left: 830px;
+  top: 4070px;
+}.el1{
+  position: absolute;
+  top: 3850px;
+  left: 950px;
+  width: 200px;
+  height: 200px;
+  cursor: pointer;
+}
+.el2{
+  color: gray;
+  position: absolute;
+  left: 950px;
+  top: 3750px;
+  width: 300px;
+}
+.el3{
+  position: absolute;
+  width: 300px;
+  left: 950px;
+  top: 3780px;
+  cursor: pointer;
+}
+.el4{
+  position: absolute;
+  color: gray;
+  text-decoration: line-through;
+  left: 950px;
+  top: 4030px;
+}
+.el5{
+  color: red;
+  position: absolute;
+  left: 950px;
+  top: 4050px;
+}
+.el6{
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  left: 1130px;
+  top: 4070px;
+  cursor: pointer;
+}
+.el7{
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  cursor: pointer;
+  left: 1190px;
+  top: 4070px;
+}
+.kos1{
+  position: absolute;
+  top: 3850px;
+  left: 1300px;
+  width: 200px;
+  height: 200px;
+  cursor: pointer;
+}
+.kos2{
+  color: gray;
+  position: absolute;
+  left: 1300px;
+  top: 3750px;
+  width: 300px;
+}
+.kos3{
+  position: absolute;
+  width: 300px;
+  left: 1300px;
+  top: 3780px;
+  cursor: pointer;
+}
+.kos4{
+  position: absolute;
+  color: gray;
+  text-decoration: line-through;
+  left: 1300px;
+  top: 4030px;
+}
+.kos5{
+  color: red;
+  position: absolute;
+  left: 1300px;
+  top: 4050px;
+}
+.kos6{
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  left: 1480px;
+  top: 4070px;
+  cursor: pointer;
+}
+.kos7{
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  cursor: pointer;
+  left: 1530px;
+  top: 4070px;
+}
+.grat5{
+  width: 1800px;
+  height: 100px;
+  background-color: rgb(255, 51, 0);
+  position: absolute;
+  left: 30px;
+  margin-top: 900px;
+}
+.asoso{
+  position: absolute;
+  top: 4400px;
+  left: 100px;
+}
+.asoso1{
+  position: absolute;
+  top: 4220px;
+  left: 300px;
+  width: 100px;
+  height: 100px;
+  cursor: pointer;
+}
+.asoso2{
+  position: absolute;
+  top: 4235px;
+  left: 390px;
+  cursor: pointer;
+}
+.asoso3{
+  position: absolute;
+  top: 4235px;
+  left: 700px;
+}
+.asoso4{
+  width: 100px;
+  height: 100;
+  position: absolute;
+  top: 4250px;
+  left: 1400px;
+  cursor: pointer;
+}
+.asoso5{
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  top: 4240px;
+  left: 1500px;
+  cursor: pointer;
+}
+.asoso6{
+  width: 70px;
+  height: 70px;
+  position: absolute;
+  top: 4530px;
+  left: 100px;
+}
+.asoso7{
+  position: absolute;
+  top: 4500px;
+  left: 200px;
+  color: black;
+}
+.asoso8{
+  position: absolute;
+  top: 4530px;
+  left: 200px;
+  color: black;
+}
+.asoso9{
+  position: absolute;
+  top: 4600px;
+  left: 100px;
+  color: black;
+}
+.asoso10{
+  position: absolute;
+  top: 4620px;
+  left: 100px;
+  color: black;
+}
+.asoso11{
+  position: absolute;
+  cursor: pointer;
+  top: 4500px;
+  left: 700px;
+  color: black;
+}
+.asoso12{
+  position: absolute;
+  cursor: pointer;
+  top: 4530px;
+  left: 700px;
+  color: black;
+}
+.asoso13{
+  position: absolute;
+  cursor: pointer;
+  top: 4500px;
+  left: 1200px;
+  color: black;
+}
+.asoso14{
+  cursor: pointer;
+  position: absolute;
+  top: 4530px;
+  left: 1200px;
+  color: black;
+}
+.asoso15{
+  cursor: pointer;
+  position: absolute;
+  top: 4560px;
+  left: 1200px;
+  color: black;
+  width: 350px;
+}
+
